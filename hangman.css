@@ -1,0 +1,43 @@
+.container,h1,h2{
+    text-align: center;
+    
+    color: black;
+}
+.body{
+   background-image: url(https://image.shutterstock.com/z/stock-vector-set-of-white-avengers-logos-on-red-background-vector-1137971171.jpg);
+}
+.info-baord{
+    float: initial;
+    
+}
+
+#wins-text{
+    margin: 50px;
+    float: left;
+    font-size: 50px;
+    color: black;
+    text-emphasis: bold;
+}
+
+#loses-text{
+    margin: 50px;
+    float: left;
+    font-size: 50px;
+    color:black;
+   
+}
+
+#userRightWord{
+    font-size: 50px;
+    margin:50px;
+  text-align: center;
+  color:black;
+  
+}
+
+#userWrongWord{
+    font-size: 50px;
+    margin: 50px;
+    color:black
+    
+}
